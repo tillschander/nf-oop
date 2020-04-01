@@ -21,7 +21,7 @@ class Movie
     public $genre;
 }
 
-class Person extends Foo implements Bar
+class Person
 {
     use ConverterTrait;
 
