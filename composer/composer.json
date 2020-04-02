@@ -1,0 +1,7 @@
+{
+    "name": "vagrant/composer",
+    "type": "project",
+    "require": {
+        "symfony/finder": "^5.0"
+    }
+}
